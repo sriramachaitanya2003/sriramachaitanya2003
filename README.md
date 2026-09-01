@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sriram Chaitanya 👋</h1>
-<h3 align="center">AI Engineer building agents that actually go do things — not just chat</h3>
+<h1 align="center">Hi, I'm Srirama Chaitanya 👋</h1>
+<h3 align="center">AI Engineer building agents that actually go do things - not just chat</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+automations;Full-Stack+Developer+%2F+AI+Evaluation+Analyst;LLMs+%C2%B7+RAG+%C2%B7+Prompt+Engineering+%C2%B7+Workflow+Automation" alt="Typing SVG" />
@@ -7,9 +7,9 @@
 
 ## 💫 About Me
 
-- 🔭 Currently building **AI agents and automations that take real action** — crawlers, lead-gen bots, and multi-agent systems, not just Q&A wrappers
+- 🔭 Currently building **AI agents and automations that take real action** - crawlers, lead-gen bots, and multi-agent systems, not just Q&A wrappers
 - 🧠 Focused on **LLM agents, RAG, prompt engineering & evaluation, and workflow automation**
-- 💼 Freelance **AI Prompt Engineer & Evaluation Analyst** at Outlier AI — writing domain prompts, evaluating agent responses, and rewriting prompts until the output is correct and accurate
+- 💼 Freelance **AI Prompt Engineer & Evaluation Analyst** at Outlier AI - writing domain prompts, evaluating agent responses, and rewriting prompts until the output is correct and accurate
 - 🌱 Currently deepening: **backend systems, system design, and multi-agent orchestration patterns**
 - 🤝 Open to collaborating on: **AI agent products & real-world full-stack web apps**
 - 🎓 B.Tech in Information Technology, VIT (2025) · AWS Certified (Cloud Practitioner & Solutions Architect) · Google × Kaggle AI Agents Intensive (Vibe Coding)
@@ -17,21 +17,21 @@
 
 ## 🤖 Things I've Built
 
-**Base44 Lead-Gen Bot** — a daily automation that finds local businesses with no website or online presence and reaches out offering to build them one, running unattended end to end.
+**Base44 Lead-Gen Bot** -> a daily automation that finds local businesses with no website or online presence and reaches out offering to build them one, running unattended end to end.
 
-**Human-in-the-Loop Job Curation & AI Scraper Agent** — an async web crawler aggregating remote job postings from Himalayas, We Work Remotely, and RemoteOK, using regex heuristics for skill matching and SHA-256 fingerprinting to prevent duplicate indexing.
+**Human-in-the-Loop Job Curation & AI Scraper Agent** -> an async web crawler aggregating remote job postings from Himalayas, We Work Remotely, and RemoteOK, using regex heuristics for skill matching and SHA-256 fingerprinting to prevent duplicate indexing.
 
-**FinBOT** — a multi-agent, retrieval-augmented financial assistant built with CrewAI, Gemini, and Qdrant, combining semantic PDF search with real-time stock, crypto, and news retrieval.
+**FinBOT** -> a multi-agent, retrieval-augmented financial assistant built with CrewAI, Gemini, and Qdrant, combining semantic PDF search with real-time stock, crypto, and news retrieval.
 
-**AI Tribunal Agent** — built for the Contra Replit Buildathon: four AI agents (Strategist, Skeptic, Researcher, Closer) debate a business problem live, with a Tension Meter tracking how contested the discussion gets.
+**AI Tribunal Agent** -> built for the Contra Replit Buildathon: four AI agents (Strategist, Skeptic, Researcher, Closer) debate a business problem live, with a Tension Meter tracking how contested the discussion gets.
 
-**AI-Driven Exam Preparation Planner** — an OCR + LLM agent workflow that turns messy multi-format study material into a personalized study plan based on remaining study hours.
+**AI-Driven Exam Preparation Planner** -> an OCR + LLM agent workflow that turns messy multi-format study material into a personalized study plan based on remaining study hours.
 
-**WRAITH** — a cyberpunk interactive browser game, built solo and shipped publicly, with a suit customizer, a memory-style puzzle mechanic, and a timed heist system.
+**WRAITH** -> a cyberpunk interactive browser game, built solo and shipped publicly, with a suit customizer, a memory-style puzzle mechanic, and a timed heist system.
 
-**PlotMaster** — a Streamlit EDA tool for dynamic visualization, automated preprocessing, and report generation.
+**PlotMaster** -> a Streamlit EDA tool for dynamic visualization, automated preprocessing, and report generation.
 
-**Plant Leaf Disease Detection** — a CNN classifier trained on 87,000+ images across 38 disease classes, achieving 92% test accuracy and a 0.91 F1 score, deployed as a real-time Streamlit app.
+**Plant Leaf Disease Detection** -> a CNN classifier trained on 87,000+ images across 38 disease classes, achieving 92% test accuracy and a 0.91 F1 score, deployed as a real-time Streamlit app.
 
 ## 🌐 Socials
 
